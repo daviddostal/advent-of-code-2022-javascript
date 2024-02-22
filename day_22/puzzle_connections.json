@@ -1,0 +1,18 @@
+{ 
+  "part1": {
+    "1": { "r": { "face": 2 }, "d": { "face": 3 }, "l": { "face": 2 }, "u": { "face": 5 } },
+    "2": { "r": { "face": 1 }, "d": { "face": 2 }, "l": { "face": 1 }, "u": { "face": 2 } },
+    "3": { "r": { "face": 3 }, "d": { "face": 5 }, "l": { "face": 3 }, "u": { "face": 1 } },
+    "4": { "r": { "face": 5 }, "d": { "face": 6 }, "l": { "face": 5 }, "u": { "face": 6 } },
+    "5": { "r": { "face": 4 }, "d": { "face": 1 }, "l": { "face": 4 }, "u": { "face": 3 } },
+    "6": { "r": { "face": 6 }, "d": { "face": 4 }, "l": { "face": 6 }, "u": { "face": 4 } }
+  },
+  "part2": {
+    "1": { "r": { "face": 2, "rot": 0 }, "d": { "face": 3, "rot": 0 }, "l": { "face": 4, "rot": 2 }, "u": { "face": 6, "rot": 3 } },
+    "2": { "r": { "face": 5, "rot": 2 }, "d": { "face": 3, "rot": 3 }, "l": { "face": 1, "rot": 0 }, "u": { "face": 6, "rot": 0 } },
+    "3": { "r": { "face": 2, "rot": 1 }, "d": { "face": 5, "rot": 0 }, "l": { "face": 4, "rot": 1 }, "u": { "face": 1, "rot": 0 } },
+    "4": { "r": { "face": 5, "rot": 0 }, "d": { "face": 6, "rot": 0 }, "l": { "face": 1, "rot": 2 }, "u": { "face": 3, "rot": 3 } },
+    "5": { "r": { "face": 2, "rot": 2 }, "d": { "face": 6, "rot": 3 }, "l": { "face": 4, "rot": 0 }, "u": { "face": 3, "rot": 0 } },
+    "6": { "r": { "face": 5, "rot": 1 }, "d": { "face": 2, "rot": 0 }, "l": { "face": 1, "rot": 1 }, "u": { "face": 4, "rot": 0 } }
+  }
+}
